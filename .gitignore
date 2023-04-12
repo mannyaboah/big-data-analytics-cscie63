@@ -1,0 +1,9 @@
+.vscode
+.ipynb_checkpoints
+*output*
+spark-warehose
+hw08_neo4j_graph/docker/conf
+hw08_neo4j_graph/docker/data
+hw08_neo4j_graph/docker/import
+hw08_neo4j_graph/docker/logs
+hw08_neo4j_graph/docker/plugins

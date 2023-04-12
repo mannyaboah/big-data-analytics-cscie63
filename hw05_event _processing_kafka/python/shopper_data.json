@@ -1,0 +1,13 @@
+{
+    "event": "SHOPPER_VIEWED_PRODUCT",
+    "shopper": {
+        "id": "123",
+        "name": "Jane",
+        "ipAddress": "70.46.123.145"
+    },
+    "product": {
+        "sku": "aapl-001",
+        "name": "iPad"
+    },
+    "timestamp": "2018-10-15T12:01:35Z"
+}

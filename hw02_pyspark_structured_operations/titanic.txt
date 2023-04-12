@@ -1,0 +1,10 @@
+1,125.00,Mr. Owen Harris,male,22
+2,75.00,Mrs. Florence Briggs Thayer,female,38
+3,75.00,Madame. Laina Heikkinen,female,66
+4,75.00,Jacques Heath (Lily May Peel),female,35
+5,125.00,William Henry,male,35
+6,125.00,James Moran,male,0
+7,175.00,Timothy J McCarthy,male,55
+8,25.00,Master Gosta Leonard Palsson,male,2
+9,75.00,Mrs. Oscar Johnson (Elisabeth Vilhelmina Berg),female,27
+10,50.00,Miss. Adele Achem,female,14

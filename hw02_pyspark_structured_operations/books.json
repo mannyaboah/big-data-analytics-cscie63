@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Eloquent JavaScript Second Edition",
+        "author": "Marijn Haverbeke",
+        "published": "2014-12-14",
+        "publisher": "No Starch Press",
+        "website": "http://eloquentjavascript.net/"
+    },
+    {
+        "title": "Learning JavaScript Design Patterns",
+        "author": "Addy Osmani",
+        "published": "2012-07-01",
+        "publisher": "O'Reilly Media",
+        "website": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/"
+    }
+]
