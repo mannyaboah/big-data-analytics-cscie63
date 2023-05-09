@@ -1,0 +1,305 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="774px" height="515px" viewBox="-0.5 -0.5 774 515" content="&lt;mxfile&gt;&lt;diagram id=&quot;erCyQVMFephfuVVJZoXX&quot; name=&quot;Page-1&quot;&gt;7VpLk+I2EP41HJnyg+dxgGH3MFuZCqkke6KELWzVyBaRxQD769OyJL/Nwi5QbAIXpG6pJUtff2q13XGn0f4TR5vwC/Mx7TiWv++4s47jOPa4B39SctCS3nigJAEnvpLZuWBBvmEttLR0S3yclBoKxqggm7LQY3GMPVGSIc7ZrtxszWh51A0KcE2w8BCtS/8ivgiVdNS3cvlnTILQjGxbWhMh01gLkhD5bFcQuS8dd8oZE6oU7aeYytUz66L6zVu02cQ4jsUpHRy9FR+IbvXD/c62AhbXGVCwMFlxKAWy1C3+6mpYVwJWlojwDeOi3sDHMC2x5Thvkq6AOJhlxT6ssq6CPmQBixF9yaWTUEQUlDYU4QH54W+oWKbyVVaenL6pz/ZF7eyga4iSIIYyxWs5rTWhdMoo4+kc3BXyRr4L8kRw9o4LmvncskbSwJrFYo4iQqXFKYuIB4+xQDGsmfVlIbuaTbV1a/NQsk7RCtMJ4z7mTcaVGnnvAWfb2C80mTxPRzM5s1SBfW2vvuMaBAnbcs8A1tFegniATbOxkslVL3TUOPmEWYRh2aCB9tuu9QRzHKlO2nN7fVXlmCJBPsrugbSXBZmpzPobIzDbvAlbrxMsikiFQmESuSjFbwv4nRqW5zT1wirQkh2JKIoloryQUP8VHQD0oEsErLypTULGyTfYPmQwB2ouNB25VqnFQvbUCCtvUAoA1cfuNQBCAc3wiCP74wTav5kttTLRK0qE6VXEmI+SMB2viG8PemN+DsKdXm8wSBFOyeZPbU6WP5vy95DfCsYPzAXenwKzjBo1xLq2PdKSXc619kDLwiLPGgJuQl4JWMdQ5NZQ1HEmoHXgjHJtK31KuSow7DLeRivMy6rEg73YUuwvJeNJwmvTa8qsqAX0Scoy5IktUGuzPa3MjFWwXqG7ZIM8EgevaW3Wq+BTok9uFYGz7ll3FGxjAIhWqVWFcZhnoS653QD+fLz9FKN+lw+dkzGoMeeeCjjnEoAb1QD33HJAPnjrfnmrP6zyltO/KYzGTbylQ62lB0F4hTa0JkZRReMRcahIGMQrJEYqLiwoBIkw4Ag/WKcOoNHJCDqTdcYXQItBXAEtfxDvHT8455fmnPH4VMrpXQJEdg1EKSdIHDWGRivG3pc+0EhZvEFJguMA82U1zMo1DTQlseQJaQ9VgjNYU2C82CeCsLgaS0WAuDrMH4SVUcLlwyT7EmBristVjsEnH6XNHPyzlfmTCTyG6OqNfYYWem/zBiY1MWFInm8BtHkDxBm7MKXUtGp0sdG6zb8rj5q6n3rMZcyuP1iCkTgy0GVSP09ZsudrUdeS+bmPVI+V/jrXSvVkCdFiqkf7zhmpHqdn9ctnyz2lepzGO5PH0foRwPxKAUy3muwZD295Z3La7kwpkhouTZF6l1EUcQTxySOcqIcTd33/cZtC1wsdfgs4+W4YQ1z/KJcGjp/mFx2rFLnfLHjIw4X/cfBgAoVi8GAc+ZzgYdQflnjdXADuInhw+9fz/d82mKPC69OH+z/c/75fE9+nW+dtWl8LWtU4QBGZ7nfE1KAt5jSGFPvVDP0I1QyunLR45CoeuYr/Lt/cLgdRI4l6at3M5Vy6ca0ac7nXI5xhK+HIHU+PV7N1uSOYsLIgavAoaaCbpHdW6VD2aLNvcSj96ZcRqK9wJA7TDwLhfyZvsSjBsogFIhRwAyjVt2vjhKuqRZCpp2jxzF1IBF7AXVvWdzBW2RczB5CILqVRirfxU9IqGeiPu2NJLn81N7lJkqVXBaA7qF+1h8OGq/YPfFAD1fzzRYXg/CtQ9+Vf&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 420 255 L 505 255 Q 515 255 515 245 L 515 172.5 Q 515 162.5 525 162.5 L 603.63 162.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 420 255 L 505 255 Q 515 255 515 245 L 515 172.5 Q 515 162.5 525 162.5 L 603.63 162.5" fill="none" stroke="#ff0080" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 608.88 162.5 L 601.88 166 L 603.63 162.5 L 601.88 159 Z" fill="#ff0080" stroke="#ff0080" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 210px; margin-left: 472px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: #BAC8D3; border-color: #FF0080; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 11px; font-family: &quot;Comic Sans MS&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; background-color: rgb(186, 200, 211); border: 1px solid rgb(255, 0, 128); white-space: nowrap;">
+                                Routes
+                                <br/>
+                                -------------
+                                <br/>
+                                arrival_airport
+                                <br/>
+                                departure_airport
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="472" y="213" fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-size="11px" font-weight="bold">
+                    Routes...
+                </text>
+            </switch>
+        </g>
+        <path d="M 420 210 L 420 193.5 Q 420 180 406.5 180 L 273.5 180 Q 260 180 260 193.5 L 260 210" fill="#000000" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="all" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 420 210 L 420 193.5 Q 420 180 406.5 180 L 273.5 180 Q 260 180 260 193.5 L 260 210" fill="#bac8d3" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 260 210 L 260 316.5 Q 260 330 273.5 330 L 406.5 330 Q 420 330 420 316.5 L 420 210" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 260 210 L 260 316.5 Q 260 330 273.5 330 L 406.5 330 Q 420 330 420 316.5 L 420 210" fill="none" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 260 210 L 420 210" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 260 210 L 420 210" fill="none" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="339.5" y="200.5">
+                Flight
+            </text>
+        </g>
+        <rect x="260" y="210" width="160" height="120" rx="18" ry="18" fill="#000000" stroke="#000000" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <rect x="260" y="210" width="160" height="120" rx="18" ry="18" fill="#bac8d3" stroke="#244660" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-weight="bold" pointer-events="none" font-size="12px">
+            <text x="265.5" y="227.5">
+                +id
+            </text>
+            <text x="265.5" y="241.5">
+                +flight_number
+            </text>
+            <text x="265.5" y="255.5">
+                +scheduled_depature
+            </text>
+            <text x="265.5" y="269.5">
+                +scheduled_arrival
+            </text>
+            <text x="265.5" y="283.5">
+                +status
+            </text>
+            <text x="265.5" y="297.5">
+                +actual_depature
+            </text>
+            <text x="265.5" y="311.5">
+                +actual_arrival
+            </text>
+        </g>
+        <path d="M 770 140 L 770 123.5 Q 770 110 756.5 110 L 623.5 110 Q 610 110 610 123.5 L 610 140" fill="#000000" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 770 140 L 770 123.5 Q 770 110 756.5 110 L 623.5 110 Q 610 110 610 123.5 L 610 140" fill="#bac8d3" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 610 140 L 610 216.5 Q 610 230 623.5 230 L 756.5 230 Q 770 230 770 216.5 L 770 140" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 610 140 L 610 216.5 Q 610 230 623.5 230 L 756.5 230 Q 770 230 770 216.5 L 770 140" fill="none" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 610 140 L 770 140" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 610 140 L 770 140" fill="none" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="689.5" y="130.5">
+                Airport
+            </text>
+        </g>
+        <rect x="610" y="140" width="160" height="90" rx="13.5" ry="13.5" fill="#000000" stroke="#000000" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <rect x="610" y="140" width="160" height="90" rx="13.5" ry="13.5" fill="#bac8d3" stroke="#244660" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-weight="bold" pointer-events="none" font-size="12px">
+            <text x="615.5" y="157.5">
+                +airport_code
+            </text>
+            <text x="615.5" y="171.5">
+                +airport_name
+            </text>
+            <text x="615.5" y="185.5">
+                +city
+            </text>
+            <text x="615.5" y="199.5">
+                +coordinates
+            </text>
+            <text x="615.5" y="213.5">
+                +timezone
+            </text>
+        </g>
+        <path d="M 770 400 L 770 383.5 Q 770 370 756.5 370 L 623.5 370 Q 610 370 610 383.5 L 610 400" fill="#000000" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 770 400 L 770 383.5 Q 770 370 756.5 370 L 623.5 370 Q 610 370 610 383.5 L 610 400" fill="#bac8d3" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 610 400 L 610 496.5 Q 610 510 623.5 510 L 756.5 510 Q 770 510 770 496.5 L 770 400" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 610 400 L 610 496.5 Q 610 510 623.5 510 L 756.5 510 Q 770 510 770 496.5 L 770 400" fill="none" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 610 400 L 770 400" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 610 400 L 770 400" fill="none" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="689.5" y="390.5">
+                Ticket
+            </text>
+        </g>
+        <rect x="610" y="400" width="160" height="110" rx="16.5" ry="16.5" fill="#000000" stroke="#000000" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <rect x="610" y="400" width="160" height="110" rx="16.5" ry="16.5" fill="#bac8d3" stroke="#244660" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-weight="bold" pointer-events="none" font-size="12px">
+            <text x="615.5" y="417.5">
+                +ticket_number
+            </text>
+            <text x="615.5" y="431.5">
+                +book_date
+            </text>
+            <text x="615.5" y="445.5">
+                +passenger_id
+            </text>
+            <text x="615.5" y="459.5">
+                +passenger_name
+            </text>
+            <text x="615.5" y="473.5">
+                +contact_data
+            </text>
+            <text x="615.5" y="487.5">
+                +fare_conditions
+            </text>
+            <text x="615.5" y="501.5">
+                +amount
+            </text>
+        </g>
+        <path d="M 610 455 L 350 455 Q 340 455 340 445 L 340 336.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 610 455 L 350 455 Q 340 455 340 445 L 340 336.37" fill="none" stroke="#ff0080" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 340 331.12 L 343.5 338.12 L 340 336.37 L 336.5 338.12 Z" fill="#ff0080" stroke="#ff0080" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 450px; margin-left: 460px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: #BAC8D3; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: &quot;Comic Sans MS&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; background-color: rgb(186, 200, 211); border: 1px solid rgb(0, 0, 0); white-space: nowrap;">
+                                <div style="text-align: left;">
+                                    Boarding Pass
+                                </div>
+                                <div style="text-align: left;">
+                                    -----------------------
+                                </div>
+                                <div style="text-align: left;">
+                                    +boarding_no
+                                </div>
+                                <div style="text-align: left;">
+                                    +seat_no
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="460" y="453" fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-size="11px" text-anchor="middle" font-weight="bold">
+                    Boarding Pass...
+                </text>
+            </switch>
+        </g>
+        <path d="M 180 420 L 180 403.5 Q 180 390 166.5 390 L 33.5 390 Q 20 390 20 403.5 L 20 420" fill="#000000" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 180 420 L 180 403.5 Q 180 390 166.5 390 L 33.5 390 Q 20 390 20 403.5 L 20 420" fill="#bac8d3" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 20 420 L 20 496.5 Q 20 510 33.5 510 L 166.5 510 Q 180 510 180 496.5 L 180 420" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 20 420 L 20 496.5 Q 20 510 33.5 510 L 166.5 510 Q 180 510 180 496.5 L 180 420" fill="none" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 20 420 L 180 420" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 20 420 L 180 420" fill="none" stroke="#244660" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="14px">
+            <text x="99.5" y="410.5">
+                Aircraft
+            </text>
+        </g>
+        <rect x="20" y="420" width="160" height="90" rx="13.5" ry="13.5" fill="#000000" stroke="#000000" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <rect x="20" y="420" width="160" height="90" rx="13.5" ry="13.5" fill="#bac8d3" stroke="#244660" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-weight="bold" pointer-events="none" font-size="12px">
+            <text x="25.5" y="437.5">
+                +aircraft_code
+            </text>
+            <text x="25.5" y="451.5">
+                +model
+            </text>
+            <text x="25.5" y="465.5">
+                +range
+            </text>
+        </g>
+        <path d="M 260 270 L 110 270 Q 100 270 100 280 L 100 383.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 260 270 L 110 270 Q 100 270 100 280 L 100 383.63" fill="none" stroke="#ff0080" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 100 388.88 L 96.5 381.88 L 100 383.63 L 103.5 381.88 Z" fill="#ff0080" stroke="#ff0080" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 280px; margin-left: 160px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: #BAC8D3; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: &quot;Comic Sans MS&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; background-color: rgb(186, 200, 211); border: 1px solid rgb(0, 0, 0); white-space: nowrap;">
+                                <div style="text-align: left;">
+                                    Seats
+                                </div>
+                                <div style="text-align: left;">
+                                    -----------
+                                </div>
+                                <div style="text-align: left;">
+                                    + seat_no
+                                </div>
+                                <div style="text-align: left;">
+                                    + conditions
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="160" y="283" fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-size="11px" text-anchor="middle" font-weight="bold">
+                    Seats...
+                </text>
+            </switch>
+        </g>
+        <path d="M 260 270 L 110 270 Q 100 270 100 280 L 100 383.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 260 270 L 110 270 Q 100 270 100 280 L 100 383.63" fill="none" stroke="#ff0080" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 100 388.88 L 96.5 381.88 L 100 383.63 L 103.5 381.88 Z" fill="#ff0080" stroke="#ff0080" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 280px; margin-left: 160px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: #BAC8D3; border-color: #FF0080; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: &quot;Comic Sans MS&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; background-color: rgb(186, 200, 211); border: 1px solid rgb(255, 0, 128); white-space: nowrap;">
+                                <div style="text-align: left;">
+                                    Operates
+                                </div>
+                                <div style="text-align: left;">
+                                    -----------
+                                </div>
+                                <div style="text-align: left;">
+                                    + seat_no
+                                </div>
+                                <div style="text-align: left;">
+                                    + conditions
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="160" y="283" fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-size="11px" text-anchor="middle" font-weight="bold">
+                    Operates...
+                </text>
+            </switch>
+        </g>
+        <path d="M 610 455 L 350 455 Q 340 455 340 445 L 340 336.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" transform="translate(2,3)" opacity="0.25"/>
+        <path d="M 610 455 L 350 455 Q 340 455 340 445 L 340 336.37" fill="none" stroke="#ff0080" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 340 331.12 L 343.5 338.12 L 340 336.37 L 336.5 338.12 Z" fill="#ff0080" stroke="#ff0080" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 450px; margin-left: 460px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: #BAC8D3; border-color: #FF0080; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: &quot;Comic Sans MS&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; background-color: rgb(186, 200, 211); border: 1px solid rgb(255, 0, 128); white-space: nowrap;">
+                                <div style="text-align: left;">
+                                    Boards
+                                </div>
+                                <div style="text-align: left;">
+                                    -----------------------
+                                </div>
+                                <div style="text-align: left;">
+                                    +boarding_no
+                                </div>
+                                <div style="text-align: left;">
+                                    +seat_no
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="460" y="453" fill="rgb(0, 0, 0)" font-family="Comic Sans MS" font-size="11px" text-anchor="middle" font-weight="bold">
+                    Boards...
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="0" width="770" height="50" rx="7.5" ry="7.5" fill="#bac8d3" stroke="#ff0080" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 768px; height: 1px; padding-top: 25px; margin-left: 1px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 10px; font-family: &quot;Comic Sans MS&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 18px;" color="#000000">
+                                    <b>
+                                        Flights Graph Database Detailed Model
+                                    </b>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="385" y="28" fill="#FFFFFF" font-family="Comic Sans MS" font-size="10px" text-anchor="middle">
+                    Flights Graph Database Detailed Model
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
