@@ -67,6 +67,23 @@
             <goals>
               <goal>shade</goal>
             </goals>
+            <configuration>
+              <finalName>${project.artifactId}-${project.version}-with-dependencies</finalName>
+              <filters>
+                <filter>
+                  <artifact>*:*</artifact>
+                  <excludes>
+                    <exclude>META-INF/*.SF</exclude>
+                    <exclude>META-INF/*.DSA</exclude>
+                    <exclude>META-INF/*.RSA</exclude>
+                  </excludes>
+                </filter>
+              </filters>
+              <relocation>
+                <pattern>org.apache.commons.compress</pattern>
+                <shadedPattern>shaded.apache.commons.compress</shadedPattern>
+              </relocation>
+            </configuration>
           </execution>
         </executions>
       </plugin>
@@ -176,11 +193,28 @@
         </exclusion>
       </exclusions>
     </dependency>
+    <dependency>
+      <groupId>com.datastax.dse</groupId>
+      <artifactId>dse-graph-frames</artifactId>
+      <version>6.8.34</version>
+      <scope>provided</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>netty-all</artifactId>
+          <groupId>io.netty</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>commons-compress</artifactId>
+          <groupId>org.apache.commons</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
   </dependencies>
   <properties>
     <dse.version>6.8.34</dse.version>
     <spec2.version>4.2.0</spec2.version>
     <encoding>UTF-8</encoding>
+    <postgres.version>42.2.5</postgres.version>
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.version>3.7.0</maven.compiler.version>
     <driver.version>4.15.0</driver.version>
