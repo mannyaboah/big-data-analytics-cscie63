@@ -14,13 +14,9 @@ services:
       - 5432:5432
     expose:
       - 5432
-
-  adminer:
-    image: adminer
-    restart: always
-    ports:
-      - 8080:8080
-  
+    networks:
+      - graph
+    container_name: postgres
 networks:
-  default:
-    name: postgre-service_default
+  graph:
+    external: true
