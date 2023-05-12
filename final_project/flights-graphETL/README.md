@@ -38,6 +38,8 @@ Alternatively: run specific commands from make file.
 
 - dse_compose_up ➡️ start dse server
 - postgres_compose_up ➡️ start postgres server
+- postgres_copy_files ➡️ copy db file
+- postgres_build ➡️ build the database
 - maven_build ➡️ build project to create jar
 - copy_files ➡️ copy schema and jar files to dse cluster
 - create_schema ➡️ create flights schema
