@@ -12,7 +12,6 @@ hw11_nlp/data/
 *lecture*
 week10_spark_ML
 final_project/.scalafmt.conf
-final_project/demo-small-en-20170815.sql
 hw10_sparl_ML/data
 final_project/.metals
 final_project/flights-graphETL/.bloop

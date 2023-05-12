@@ -8,15 +8,15 @@ postgres_container_name = "postgres"
 uber_jar = "flights-graphETL-1.0-SNAPSHOT-with-dependencies.jar"
 
 # build and run the entire ETL process
-all: dse_compose_up postgres_compose_up maven_build copy_files create_schema build_vertices build_edges
+all: dse_compose_up postgres_compose_up maven_build copy_files postgres_copy_files postgres_build create_schema build_vertices build_edges
 
 # bring up DSE server
 dse_compose_up:
-	@docker-compose -f ./docker/docker-compose.yaml up -d
+	@docker-compose -f ./docker/dse/docker-compose.yaml up -d
 
 # bring up postgres database server
 postgres_compose_up:
-	@docker-compose -f ../docker-compose.yaml up -d
+	@docker-compose -f ./docker/postgres/docker-compose.yaml up -d
 
 # copy database build scripts to postgres container
 postgres_copy_files:
